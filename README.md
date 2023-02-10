@@ -1,4 +1,6 @@
-# StuartGreenleyHi there / 你好 👋
+# StuartGreenley
+
+Hi there /👋
 header
 
 🚧 Currently working on ...
@@ -14,7 +16,7 @@ Marketing analytics
 Supply&Demand analytics
 Starting R along with finishing Python
 Tools ...
-SQL sql1, Python python1, Tableau tableau, Power BI powerbi, Alteryx alteryx, Excel excel
+SQL, Python python1, Tableau tableau,  Excel excel
 
 📫 How to reach me:
 You can find my contact details on my portfolio. You may also wish to connect with me on linkedin and write to me.
