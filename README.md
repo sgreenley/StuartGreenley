@@ -5,21 +5,18 @@ header
 
 🚧 Currently working on ...
 
-Analysis of censorship on WeChat and Weibo (Chinese social media) python1 tableau
-How to predict the Churn rate of a company python1
+Analysis of a public data set using SQL 
 
 🔭 Most recent projects ...
 
-Anlysis of the world population in 2015 sql1
-Exploratory analysis of the video game industry python1
+Stay tunes for more projects
 
 🌱 I’m currently learning ...
 
-Polishing my data visualisation skills
-Machine Learning
-Marketing analytics
-Supply&Demand analytics
-Starting R along with finishing Python
+SQL Bootcamp 
+Tableau 
+Python
+Excel
 
 Tools ...
 
